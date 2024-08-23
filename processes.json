@@ -1,3 +1,6 @@
 [
-  { "name": "PanG", "exact": false }
+  { "name": "PanG", "exact": false },
+  { "name": "GlobalProtect", "exact": false },
+  { "name": "GP", "exact": false },
+  { "name": "Pan", "exact": false }
 ]
