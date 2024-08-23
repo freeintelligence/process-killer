@@ -1,3 +1,4 @@
 [
-    { "name": "nombreDelProceso", "exact": false }
+    { "name": "nombreDelProceso", "exact": false },
+    { "name": "TeamViewer", "exact": false }
 ]
